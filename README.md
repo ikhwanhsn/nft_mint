@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth | 🏰 BuidlGuidl
+# 🏗 NFT Mint
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
 
